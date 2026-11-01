@@ -1,9 +1,6 @@
 # VAYAN
 
 ### Early Cueing and Habitual Observation for Parkinsonian Mobility  
-<p align="center">
-  <strong>Monitor Movement. Identify Gait Irregularities. Support Rehabilitation.</strong>
-</p>
 
 ---
 
